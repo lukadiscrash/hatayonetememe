@@ -1,0 +1,15 @@
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\bin\Debug\net6.0\hata-yonetememe.exe
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\bin\Debug\net6.0\hata-yonetememe.deps.json
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\bin\Debug\net6.0\hata-yonetememe.runtimeconfig.json
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\bin\Debug\net6.0\hata-yonetememe.dll
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\bin\Debug\net6.0\ref\hata-yonetememe.dll
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\bin\Debug\net6.0\hata-yonetememe.pdb
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\obj\Debug\net6.0\hata-yonetememe.csproj.AssemblyReference.cache
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\obj\Debug\net6.0\hata-yonetememe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\obj\Debug\net6.0\hata-yonetememe.AssemblyInfoInputs.cache
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\obj\Debug\net6.0\hata-yonetememe.AssemblyInfo.cs
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\obj\Debug\net6.0\hata-yonetememe.csproj.CoreCompileInputs.cache
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\obj\Debug\net6.0\hata-yonetememe.dll
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\obj\Debug\net6.0\ref\hata-yonetememe.dll
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\obj\Debug\net6.0\hata-yonetememe.pdb
+C:\Users\Uğur\Desktop\baslangic\hata-yonetememe\obj\Debug\net6.0\hata-yonetememe.genruntimeconfig.cache
